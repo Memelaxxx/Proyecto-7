@@ -1,0 +1,2 @@
+cd "C:\Users\spawn\OneDrive\Documentos\Tripleten\Sprint_7\Proyecto 7\Proyecto-7"
+streamlit run app.py
